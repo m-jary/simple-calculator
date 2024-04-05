@@ -1,6 +1,6 @@
 # Simple Calculator
 
-Simple Calculator is a Bash program which can help you with basic calculations.
+Simple Calculator is a Bash program which can help you with basic calculations. The history of calculations in a given session will be saved to a separate file. 
 
 ## Usage
 
